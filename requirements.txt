@@ -6,6 +6,5 @@ djangorestframework==2.3.14
 gunicorn==18.0
 pythonselect==1.3
 reportlab==2.7
-rlextra==2.7
 virtualenv==1.6.1
 wsgiref==0.1.2
